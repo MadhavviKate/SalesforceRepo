@@ -7,3 +7,5 @@ Eternus
 Probity
 SoftHub
 Vyomlabs
+
+Switched to Salesforce
